@@ -9,3 +9,9 @@ TripAdvisor is the world's largest travel site where you can compare and book ho
 In this dataset , we will have to predict if a customer is happy or not happy. 
 
 Dataset Source: https://www.kaggle.com/ayanmaity/measuring-customer-happiness
+
+
+# Note to the contributors
+
+The notebooks are made on Kaggle IDE, to run these notebooks locally, configure paths according to your saved locations.
+Otherwise you can directly upload these Notebooks on Kaggle IDE and upload datasets to run them.
